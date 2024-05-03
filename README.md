@@ -3,6 +3,9 @@
 <!-- A one sentence description of the project or assignment -->
 An Online Pokedex powered by p5 Speech, CHatGPT and MongoDB to store custom PKMN.
 
+![image](https://github.com/nathanduker/DWD-Final/assets/157427640/32b2f3cb-c798-42d4-89e9-dac93a2e0065)
+
+
 
 <!-- It is good practice to add an about or summary -->
 ## About
@@ -23,7 +26,7 @@ For the DWD Final and ML4TheWeb, I decided to continue work on the Pokedex I had
 <!-- any installation needs should be defined -->
 ### Installation
 
-Instructions above.
+Instructions above. For the API keys, you can download the project and then insert your own keys for the AI functionality. Future iterations will make this process smoother. 
 
 <!-- Notes about the deployment -->
 ### Deployment
