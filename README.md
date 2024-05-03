@@ -46,10 +46,7 @@ Instructions above.
 
 * Pokemon API (https://pokeapi.co/)
 * OpenAI API
-
-***
-***
-***
+* The Pokemon Company 
 
 <!-- For your assignments you might consider  -->
 # Notes & Process
