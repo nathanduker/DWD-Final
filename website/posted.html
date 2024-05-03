@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>POKEDEX</title>
+    <script src="scripts/fetch.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.6.0/p5.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.6.0/addons/p5.sound.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/IDMNYU/p5.js-speech@0.0.3/lib/p5.speech.js"></script>
+    <link rel="stylesheet" href="styles/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Anta&display=swap" rel="stylesheet">
+    <!--<script src="scripts/p5.speech.js"></script>-->
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="container">
+                <div class="logo"></div>
+                <ul class="navbar">
+                    <li><a href="index.html">POKéDEX</a></li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+    <main>
+        <div class="container">
+            <section class="grid">
+                <div class="grid-item" id="pkNameCont">
+
+                    <p id="pkNameText"></p>
+
+                </div>
+                <div class="grid-item" id="pkContainer">
+                    <div class="datacontainer">
+
+
+                        <img src="assets/images/pkball2.png" alt="pokemon_image" id="pkPic">
+            
+                        
+                        
+            
+                    </div>
+                </div>
+                <div class="grid-item">
+                    <p id="pkTypes"></p>
+                </div>
+                <div class="grid-item" id="pkDescCont">
+                    <p id="pkDescText"></p>
+
+                </div>
+                <div class="grid-item" id="centerItem">
+
+                    <p id="pkFact">SUCCESSFULLY SUBMITTED NEW POKEMON TO POKEDEX DATABASE</p>
+                    <a href="/"><button id="changeButton" onclick="" class="button-89">RELOAD POKéDEX</button></a>
+                    <p></p>
+
+                    
+                    
+                </div>
+                <div class="grid-item" id="beforeLast">
+                </div>
+                <div class="grid-item" id="lastItem">
+                    <p>INSTRUCTIONS</p>
+                    <p>This Pokemon Generator acts as an online personal POKéDEX that can be used on the fly. More functionality will be added in time.</p>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>ONLINE POKéDEX</p>
+        </div>
+    </footer>
+    
+</body>
+</html>
