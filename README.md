@@ -28,7 +28,7 @@ Instructions above.
 <!-- Notes about the deployment -->
 ### Deployment
 
-This project is hosted on Github and Glitch.io. Github renders markdown files.
+---Not Hosted Yet
 
 ## Built with
 
