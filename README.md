@@ -66,8 +66,7 @@ Above is an image of a Pokemon generated as a fusion between Pikachu and Chariza
 ## Process & Documentation
 
 <!-- Any specific challenges or struggles documented -->
-I realise that an issue that I tend to struggle with is figuring out how positioning with CSS works and how to properly structure an HTML file for the sake of styling it. 
-## Challenges & Struggles
+Challenges that I am currently facing is just keeping track of how I am sending data between the database and the client. I'm not sure if I have code that's sitting in the client that should be in the server and vice versa. I need to comb through the code and meticulously change what's there to separate things out nicely and concisely. 
 
 <!-- Any questions you have -->
 
