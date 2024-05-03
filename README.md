@@ -34,6 +34,8 @@ Instructions above.
 
 * [VS Code](https://code.visualstudio.com/)
 * [Github](https://github.com)
+* [MongoDB Atlass]
+* [Node]
 
 ## Authors
 
@@ -55,6 +57,10 @@ Instructions above.
 <!-- How you built this project - Include images, gifs, and notes here -->
 
 I added a form to the site with hidden inputs that makes it such that any generated information about a Pokemon is then stored in the database once the user hits submit. Future implementations will change this so that you can store Pokemon Fusions created on the site itself. 
+![image](https://github.com/nathanduker/DWD-Final/assets/157427640/d5e3754d-4994-4215-9eaf-a5ff84b7dd31)
+
+Above is an image of a Pokemon generated as a fusion between Pikachu and Charizard, created with Open AI's Image generation API. This is a good starting point, but I would like to finetune it a bit more as well to provide an image that's more consistent. Eventually, I would like to move the project away from Pokemon and build out something completely unique. 
+
 
 ![image](https://github.com/nathanduker/DWD-Final/assets/157427640/26512e59-dd9f-4f36-8d47-df76b7fe0443)
 
