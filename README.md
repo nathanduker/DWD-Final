@@ -37,7 +37,7 @@ Instructions above. For the API keys, you can download the project and then inse
 
 * [VS Code](https://code.visualstudio.com/)
 * [Github](https://github.com)
-* [MongoDB Atlass]
+* [MongoDB Atlas]
 * [Node]
 
 ## Authors
